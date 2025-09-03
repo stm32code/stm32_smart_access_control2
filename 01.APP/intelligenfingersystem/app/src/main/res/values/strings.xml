@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">智能门禁系统</string>
+    <string name="history">历史记录</string>
+    <string name="setDebug">调试</string>
+    <string name="set">设置</string>
+    <string name="typeInFace">录入指纹</string>
+    <string name="typeInRfid">录入RF卡</string>
+    <string name="loginOut">退出登录</string>
+</resources>
